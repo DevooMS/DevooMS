@@ -29,16 +29,14 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/">「 Google Me 」</a>
     <br>
     「 I am Cybersecurity CE student <b>Italy</b> 」
-    <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a target="blank">
+ <a href="https://mingsu.link/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="DevooMS" />
  </a>
  <a href="https://www.linkedin.com/in/ming-su-51ba59292/" target="_blank">
